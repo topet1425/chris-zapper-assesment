@@ -1,0 +1,14 @@
+C:\Users\DELL 5430\source\repos\ZapperAssesment\ZapperAssesment\bin\Debug\net8.0\ZapperAssesment.exe
+C:\Users\DELL 5430\source\repos\ZapperAssesment\ZapperAssesment\bin\Debug\net8.0\ZapperAssesment.deps.json
+C:\Users\DELL 5430\source\repos\ZapperAssesment\ZapperAssesment\bin\Debug\net8.0\ZapperAssesment.runtimeconfig.json
+C:\Users\DELL 5430\source\repos\ZapperAssesment\ZapperAssesment\bin\Debug\net8.0\ZapperAssesment.dll
+C:\Users\DELL 5430\source\repos\ZapperAssesment\ZapperAssesment\bin\Debug\net8.0\ZapperAssesment.pdb
+C:\Users\DELL 5430\source\repos\ZapperAssesment\ZapperAssesment\obj\Debug\net8.0\ZapperAssesment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL 5430\source\repos\ZapperAssesment\ZapperAssesment\obj\Debug\net8.0\ZapperAssesment.AssemblyInfoInputs.cache
+C:\Users\DELL 5430\source\repos\ZapperAssesment\ZapperAssesment\obj\Debug\net8.0\ZapperAssesment.AssemblyInfo.cs
+C:\Users\DELL 5430\source\repos\ZapperAssesment\ZapperAssesment\obj\Debug\net8.0\ZapperAssesment.csproj.CoreCompileInputs.cache
+C:\Users\DELL 5430\source\repos\ZapperAssesment\ZapperAssesment\obj\Debug\net8.0\ZapperAssesment.dll
+C:\Users\DELL 5430\source\repos\ZapperAssesment\ZapperAssesment\obj\Debug\net8.0\refint\ZapperAssesment.dll
+C:\Users\DELL 5430\source\repos\ZapperAssesment\ZapperAssesment\obj\Debug\net8.0\ZapperAssesment.pdb
+C:\Users\DELL 5430\source\repos\ZapperAssesment\ZapperAssesment\obj\Debug\net8.0\ZapperAssesment.genruntimeconfig.cache
+C:\Users\DELL 5430\source\repos\ZapperAssesment\ZapperAssesment\obj\Debug\net8.0\ref\ZapperAssesment.dll
